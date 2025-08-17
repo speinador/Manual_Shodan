@@ -1,9 +1,5 @@
 # 📖 Manual de Shodan para Ethical Hacking y Bug Bounty
 
-**Estado:** v1.0  
-**Licencia sugerida:** CC BY-SA 4.0 (o MIT si prefieres reutilización amplia)  
-**Autor:** Sebastian Peinador (colab. IA)
-
 ---
 
 ## 📑 Tabla de contenidos
@@ -215,8 +211,6 @@ __pycache__/
 *.log
 ```
 
-📜 **Licencia:** CC BY-SA 4.0 (contenido) / MIT (código).  
-
 ---
 
 ## 📎 Anexos: más dorks, hashes de favicon y referencias
@@ -226,7 +220,18 @@ Incluye:
 - 📜 Snippet Python para calcular favicon hash.  
 - 📚 Referencias: Documentación oficial, HackerOne, Bugcrowd, CWE/CVE.  
 
----
+________________________________________
+## 🧑‍🏫 Autor
 
-## 🤝 Créditos y contribuciones
-Pull Requests bienvenidos: añade dorks, workflows, scripts y ejemplos. Mantén siempre el enfoque ético y legal.  
+Explicación elaborada por [Sebastian Peinador](https://www.linkedin.com/in/sebastian-j-peinador/) para propósitos didácticos y de investigación en ciberseguridad ofensiva.
+
+________________________________________
+
+## 📄 Licencia
+
+Este material se distribuye bajo la licencia [MIT](LICENSE).
+
+________________________________________
+
+> Si te resulta útil, ¡no olvides darle ⭐ al repo o compartirlo!
+
