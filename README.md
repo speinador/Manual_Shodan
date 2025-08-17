@@ -29,7 +29,7 @@ Shodan es un motor de búsqueda de dispositivos y servicios expuestos a Internet
 ---
 
 ## 🔍 Qué es Shodan
-- 🌍 WEb de Shodan [https://www.shodan.io/](https://www.shodan.io/)
+- 🌍 WEB de Shodan [https://www.shodan.io/](https://www.shodan.io/)
 - 🔎 Indexa banners y metadatos de servicios (HTTP, SSH, RDP, MQTT, etc.) expuestos.  
 - 📊 Permite filtrar por IP/host, puerto, producto/versión, geografía, ASN/ORG, fecha, SSL, favicon hash, etc.  
 - 🖥️ Ofrece panel web, API, y herramientas complementarias.  
