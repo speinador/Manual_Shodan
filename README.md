@@ -14,12 +14,6 @@
 - 🔄 [Workflows paso a paso](#-workflows-paso-a-paso)
 - 🐍 [Uso de la API (Python y CLI)](#-uso-de-la-api-python-y-cli)
 - 🤖 [Automatización y enriquecimiento](#-automatización-y-enriquecimiento)
-- 📝 [Validación segura y reporte de hallazgos](#-validación-segura-y-reporte-de-hallazgos)
-- 🕵️ [OPSEC: seguridad operacional](#-opsec-seguridad-operacional)
-- ⚠️ [Limitaciones y trampas comunes](#-limitaciones-y-trampas-comunes)
-- ✅ [Checklist de revisión rápida](#-checklist-de-revisión-rápida)
-- 📂 [Plantillas para GitHub](#-plantillas-para-github)
-- 📎 [Anexos: más dorks, hashes de favicon y referencias](#-anexos-más-dorks-hashes-de-favicon-y-referencias)
 
 ---
 
